@@ -11,9 +11,11 @@ import androidx.appcompat.app.AppCompatActivity;
  * date: 2021/9/5
  **/
 public class MainActivity extends AppCompatActivity {
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
 }

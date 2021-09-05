@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="wz_weather" />
+    <list>
+        <mapping class="com.wangziyu.wzweather.db.Province" />
+        <mapping class="com.wangziyu.wzweather.db.City" />
+        <mapping class="com.wangziyu.wzweather.db.County" />
+    </list>
+    <version value="1" />
+</litepal>
